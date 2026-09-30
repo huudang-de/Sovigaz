@@ -1,10 +1,10 @@
 # Giao diện mẫu (Template) - 2.1 temp doanh thu chi tiết
 
 ## 1. Filter
-- Thời gian: droplist
-- Xí nghiệp: droplist
+- Thời gian: Dropdown
+- Xí nghiệp: Dropdown
 - Khách hàng: search
-- Nhóm KH: droplist
+- Nhóm KH: Dropdown
 - Số hóa đơn: search
 - Tìm tên KH: search
 

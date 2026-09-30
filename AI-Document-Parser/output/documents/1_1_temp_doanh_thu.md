@@ -2,9 +2,9 @@
 
 ## 1. Filter (Bộ lọc)
 - Date **|** Từ **|** 2022-01-01 00:00:00 **|** Đến **|** 2023-01-01 00:00:00
-- Nhóm khách hàng: Droplist
-- Tên nhóm khách hàng: Droplist
-- Tên xí nghiệp: Droplist
+- Nhóm khách hàng: Dropdown
+- Tên nhóm khách hàng: Dropdown
+- Tên xí nghiệp: Dropdown
 - Tìm tên sản phẩm: Search
 
 ## 2. Card (Chỉ số tổng quát)
