@@ -1,0 +1,12 @@
+# Python virtual environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Data files and folders (bỏ qua file dữ liệu)
+*.csv
+Nguồn dữ liệu/
+Mockup_Datamart/
+Data raw/
+1. Giới thiệu và khảo sát dự án/Nguồn dữ liệu/
